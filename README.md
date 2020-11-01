@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/33191954/78983001-0a0ef880-7b43-11ea-904f-42a572d93c53.png" alt="title"/>
+  <img src="./react-loader-spinner.png" alt="title"/>
 </p>
 
 
